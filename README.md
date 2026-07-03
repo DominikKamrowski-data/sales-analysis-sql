@@ -1,3 +1,5 @@
+# Sales Analysis SQL Project
+
 SQL project analyzing sales revenue by product, region and order size using SQLite.
 
 ## 📌 Overview
