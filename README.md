@@ -21,4 +21,10 @@ This project analyzes sales data using SQL (SQLite) to identify key business ins
 - data.sql → database structure and data  
 - analysis.sql → SQL queries used for analysis  
 
-What I learned: GROUP BY, CASE, subqueries, business insights, SQL analysis.
+## What I learned
+
+- Using GROUP BY for aggregated analysis
+- Using CASE statements to classify orders
+- Working with subqueries
+- Turning SQL results into business insights
+- Analyzing sales performance by product and region
